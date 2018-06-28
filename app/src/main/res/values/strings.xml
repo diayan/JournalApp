@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="title_activity_addtask">Add Notes</string>
+    <string name="error_sign_in_activity">You got an Error</string>
+    <string name="sign_in_success">sign in successful</string>
+    <string name="sign_in_failure">sign in failed, try again</string>
+    <string name="write_here">Write here</string>
+</resources>

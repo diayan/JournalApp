@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="add_task_width">0dp</dimen>
+    <dimen name="add_task_height">wrap_content</dimen>
+
+    <dimen name="marginStart">16dp</dimen>
+    <dimen name="marginEnd">16dp</dimen>
+    <dimen name="marginTop">16dp</dimen>
+
+    <dimen name="main_width">match_parent</dimen>
+    <dimen name="main_height">match_parent</dimen>
+    <dimen name="main_fab_width">wrap_content</dimen>
+    <dimen name="main_fab_height">wrap_content</dimen>
+
+    <dimen name="time_line_width">match_parent</dimen>
+    <dimen name="time_line_height">wrap_content</dimen>
+
+</resources>
